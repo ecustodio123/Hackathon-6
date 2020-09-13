@@ -1,0 +1,7 @@
+Collecting psycopg2
+  Using cached psycopg2-2.8.6-cp37-cp37m-win_amd64.whl (1.1 MB)
+Processing c:\users\kikin\appdata\local\pip\cache\wheels\84\c0\57\97515ad97d6e346c0d41dda16bb42892c4a0ac8006919aa82f\freeze-3.0-py3-none-any.whl
+Collecting six
+  Using cached six-1.15.0-py2.py3-none-any.whl (10 kB)
+Installing collected packages: psycopg2, six, freeze
+Successfully installed freeze-3.0 psycopg2-2.8.6 six-1.15.0
